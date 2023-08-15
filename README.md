@@ -11,7 +11,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="projeto to-do" src=".img/projeto-to-do.jpg">
+  <img alt="projeto to-do" src="projeto-to-do.jpg">
 </p>
 
 <br>
